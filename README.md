@@ -23,4 +23,4 @@ Test case generation using styleGAN2, by run
 ```
 The results are saved in out/
 
-![Test case generation](图片链接)
+![Test case generation](https://github.com/dummySeatOD/SEAT-OD/blob/main/Figure/generation.png)
