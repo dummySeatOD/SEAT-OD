@@ -30,4 +30,4 @@ The results are saved in out/
 ![sea-metrics](https://github.com/dummySeatOD/SEAT-OD/blob/main/Figure/SEA-metrics.png)
 
 ## PGD_Attack
-![pgd](https://github.com/dummySeatOD/SEAT-OD/blob/main/Figure/pgd-result.pdf)
+![pgd-attack](https://github.com/dummySeatOD/SEAT-OD/blob/main/Figure/pgd-result.pdf)
